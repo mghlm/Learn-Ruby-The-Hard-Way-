@@ -9,7 +9,14 @@ I'll do  a list:
 \t* Catnip\n\t* Grass
 """
 
+single_quotes = '''
+Is this
+any better ?
+'''
+
 puts tabby_cat
 puts persian_cat
 puts backlash_cat
 puts fat_cat
+
+puts single_quotes
