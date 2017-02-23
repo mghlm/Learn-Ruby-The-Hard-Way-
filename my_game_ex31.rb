@@ -63,7 +63,7 @@ def start
   elsif door == "2"
     weapon_room
   else
-    die("That's not an option, you're dead")
+    die("That's not an option, you're dead.")
   end
 end
 
